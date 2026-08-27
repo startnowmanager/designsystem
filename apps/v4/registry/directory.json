@@ -2031,5 +2031,12 @@
     "url": "https://onchain-ui.dev/r/{name}.json",
     "description": "Web3 components for shadcn apps. Wallet identity, token logos, balances, and market UI primitives for EVM products.",
     "logo": "<svg width=\"64\" height=\"64\" viewBox=\"0 0 64 64\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M32 8L58 54H6L32 8Z\" fill=\"currentColor\"/><path d=\"M24 38H40\" stroke=\"var(--background)\" stroke-width=\"4\" stroke-linecap=\"round\"/><circle cx=\"24\" cy=\"38\" r=\"3\" fill=\"var(--background)\"/><circle cx=\"40\" cy=\"38\" r=\"3\" fill=\"var(--background)\"/></svg>"
+  },
+  {
+    "name": "@uniquel",
+    "homepage": "https://uniquel.io",
+    "url": "https://uniquel.io/r/{name}.json",
+    "description": "Minimalist components for React / Next.js: animated backgrounds, galleries, badges, and conversion blocks. Built with Tailwind CSS and Motion, installable with the shadcn CLI.",
+    "logo": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 200 200' fill='none'><path fill='var(--foreground)' d='M37 23h31v117l10 10h44l10-10V23h31v128l-25 25H62L37 151V23z' /><rect x='132' y='22' width='31' height='31' fill='#4BC4BE' /></svg>"
   }
 ]
